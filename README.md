@@ -4,18 +4,18 @@ Este projeto foi desenvolvido como parte de um trabalho de extensão e tem como 
 
 ## Funcionalidades
 
-- Registrar pedidos**: Adicionar um novo pedido com o nome do cliente, tipo de massa, e quantidade.
-- Editar pedidos**: Modificar detalhes de um pedido já registrado.
-- Excluir pedidos**: Remover pedidos da lista.
-- Armazenamento local**: Todos os pedidos são armazenados localmente no dispositivo, utilizando o AsyncStorage.
+- Registrar pedidos: Adicionar um novo pedido com o nome do cliente, tipo de massa, e quantidade.
+- Editar pedidos: Modificar detalhes de um pedido já registrado.
+- Excluir pedidos: Remover pedidos da lista.
+- Armazenamento local: Todos os pedidos são armazenados localmente no dispositivo, utilizando o AsyncStorage.
 
 ## Tecnologias Utilizadas
 
-- React Native**: Framework para criação de aplicativos móveis.
-- React Navigation**: Navegação entre telas do aplicativo.
-- AsyncStorage**: Armazenamento local para persistência de dados.
-- React Native Paper**: Biblioteca de componentes UI.
-- MaterialCommunityIcons**: Ícones para a interface do usuário.
+- React Native: Framework para criação de aplicativos móveis.
+- React Navigation: Navegação entre telas do aplicativo.
+- AsyncStorage: Armazenamento local para persistência de dados.
+- React Native Paper: Biblioteca de componentes UI.
+- MaterialCommunityIcons: Ícones para a interface do usuário.
 
 ## Instalação
 
